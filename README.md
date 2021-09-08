@@ -9,5 +9,12 @@ swap on heco
 #### Tasks Description
 - Create or fork a DeFi tool and host the front-end on Skynet (done)
 -- hosted on : https://4007i8s2i7qh2h70k76q2btmobqeggtatoe83tlsvqffuv1udr8fbfo.siasky.net/
+- Use the Deploy to Skynet Github action for building and deploying your frontend automatically - Done
+- adding a working "Save to Homescreen" link in the Github repo - Done 
 
+## skylink 
+- sia://IACmVs3DOhWiA5fiWhOHAVXoWQzlT1cvr2HrLUjHylISww
+
+## Siasky.net Portal URL
+- https://4007i8s2i7qh2h70k76q2btmobqeggtatoe83tlsvqffuv1udr8fbfo.siasky.net/
 
