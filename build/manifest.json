@@ -12,5 +12,6 @@
   "orientation": "portrait",
   "display": "standalone",
   "theme_color": "#ff007a",
-  "background_color": "#fff"
+  "background_color": "#fff",
+  "skylink" : "sia://IACmVs3DOhWiA5fiWhOHAVXoWQzlT1cvr2HrLUjHylISww"
 }
